@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PhotoGallery/static/css/main.6df2f441.css",
+    "main.js": "/PhotoGallery/static/js/main.c76d9fed.js",
+    "static/js/787.dbbd0357.chunk.js": "/PhotoGallery/static/js/787.dbbd0357.chunk.js",
+    "static/media/woods4.jpg": "/PhotoGallery/static/media/woods4.e3ae51c503c11b7fa6ab.jpg",
+    "static/media/woods3.jpg": "/PhotoGallery/static/media/woods3.fe0311c615068c2dfcff.jpg",
+    "static/media/beach3.jpg": "/PhotoGallery/static/media/beach3.8397b950658b27dfc1d9.jpg",
+    "static/media/lake3.jpg": "/PhotoGallery/static/media/lake3.68085be6b646767a85bc.jpg",
+    "static/media/lake2.jpg": "/PhotoGallery/static/media/lake2.76931432e65148534d60.jpg",
+    "static/media/woods.jpg": "/PhotoGallery/static/media/woods.f80975663de0af6856a6.jpg",
+    "static/media/woods2.jpg": "/PhotoGallery/static/media/woods2.9a96791fbf7f9bacf715.jpg",
+    "static/media/lake.jpg": "/PhotoGallery/static/media/lake.50019b08ffed250b1962.jpg",
+    "static/media/beach2.jpg": "/PhotoGallery/static/media/beach2.0b2358f9d21940a7076a.jpg",
+    "static/media/beach.jpg": "/PhotoGallery/static/media/beach.3349d0576eb36ce892f6.jpg",
+    "index.html": "/PhotoGallery/index.html",
+    "main.6df2f441.css.map": "/PhotoGallery/static/css/main.6df2f441.css.map",
+    "main.c76d9fed.js.map": "/PhotoGallery/static/js/main.c76d9fed.js.map",
+    "787.dbbd0357.chunk.js.map": "/PhotoGallery/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df2f441.css",
+    "static/js/main.c76d9fed.js"
+  ]
+}
