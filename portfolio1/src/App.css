@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  text-shadow: 5px 5px 5px black;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.album-option {
+  margin: 10px;
+  width: 200px;
+  height: 100px;
+  font-size: 20px;
+  cursor: pointer;
+  font-style: italic;
+}
+
+.album-option:hover {
+  box-shadow: 10px 10px 10px black;
+}
+
+body {
+  background-color: #282c34; 
+}
+
